@@ -1,0 +1,7 @@
+sector,region,route,cost_usd_per_ton
+steel,China,BF-BOF,480
+steel,Gulf,DRI-H2,520
+cement,Vietnam,baseline,70
+cement,EU,low-clinker,85
+ammonia,Gulf,SMR,300
+ammonia,MiddleEast,green,550
