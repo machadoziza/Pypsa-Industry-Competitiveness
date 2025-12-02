@@ -1,0 +1,7 @@
+sector,route,capex_usd_per_ton,opex_usd_per_ton,electricity_mwh_per_ton,hydrogen_kg_per_ton,gas_gj_per_ton,labor_usd_per_ton
+steel,BF-BOF,150,30,0.1,0,17,20
+steel,DRI-H2,330,40,2.5,50,0,25
+cement,baseline,100,15,0.1,0,3.2,10
+cement,low-clinker,150,20,0.2,0,2.0,12
+ammonia,SMR,250,35,0.5,0,28,15
+ammonia,green,500,45,10,55,0,18
