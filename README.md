@@ -1,2 +1,2 @@
 # Pypsa-Industry-Competitiveness
-PyPSA plug-in for industrial competitiveness and CIF investment assessment
+PyPSA plug-in for industrial competitiveness and investment assessment
