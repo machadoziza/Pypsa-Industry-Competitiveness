@@ -1,0 +1,15 @@
+scenarios:
+  stable:
+    tariff_multiplier: 1.0
+    cbam_cost_addition: 0
+    shipping_cost_usd_per_ton: 30
+
+  fragmented:
+    tariff_multiplier: 1.15
+    cbam_cost_addition: 50
+    shipping_cost_usd_per_ton: 40
+
+  supply_shock:
+    tariff_multiplier: 1.10
+    cbam_cost_addition: 0
+    shipping_cost_usd_per_ton: 90
